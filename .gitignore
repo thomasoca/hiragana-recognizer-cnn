@@ -1,0 +1,11 @@
+ETL8G/
+.vscode/
+unpack/
+hiragana_model/
+*.zip
+*.tflite
+evaluation.png
+ETL1.zip
+ETL8B.zip
+hiragana.npz
+hiragana_list.txt
